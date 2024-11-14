@@ -5,7 +5,7 @@ xhofe/alist:latest
 mysql:8.0.13
 redis:3.2
 nacos/nacos-server:2.0.3
-emqx:4.3.11
+emqx/emqx:4.3.11
 rabbitmq:3.13.6
 openjdk:8-jdk-alpine
 #支持指定架构
