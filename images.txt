@@ -4,7 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 mysql:8.0.13
 redis:3.2
-nacos
+nacos/nacos-server:2.0.3
 emqx:4.3.11
 rabbitmq:3.13.6
 openjdk:8-jdk-alpine
