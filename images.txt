@@ -10,5 +10,6 @@ rabbitmq:3.13.6
 openjdk:8-jdk-alpine
 guovern/tv-requests:latest
 guovern/tv-driver:latest
+guovern/iptv-api:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
