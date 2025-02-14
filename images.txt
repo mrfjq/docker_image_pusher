@@ -11,5 +11,7 @@ openjdk:8-jdk-alpine
 guovern/tv-requests:latest
 guovern/tv-driver:latest
 guovern/iptv-api:latest
+seataio/seata-server:1.4.2
+wurstmeister/kafka
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
