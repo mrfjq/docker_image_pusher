@@ -8,9 +8,6 @@ nacos/nacos-server:2.0.3
 emqx/emqx:4.3.11
 rabbitmq:3.13.6
 openjdk:8-jdk-alpine
-guovern/tv-requests:latest
-guovern/tv-driver:latest
-guovern/iptv-api:latest
 seataio/seata-server:1.4.2
 wurstmeister/kafka
 gcr.io/k8s-minikube/kicbase:v0.0.46
