@@ -13,5 +13,8 @@ guovern/tv-driver:latest
 guovern/iptv-api:latest
 seataio/seata-server:1.4.2
 wurstmeister/kafka
+gcr.io/k8s-minikube/kicbase:v0.0.46
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
