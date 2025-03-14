@@ -13,5 +13,7 @@ wurstmeister/kafka
 gcr.io/k8s-minikube/kicbase:v0.0.46
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
+coredns/coredns:v1.11.3
+k8s-minikube/storage-provisioner:v5
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
